@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Object Inheritance Lab Part Two
 
 ## Learning Goals
@@ -73,3 +74,6 @@ Run the test suite to get started. This is a test-driven lab.
 - [Inheritance and Composition: A Python OOP Guide - Real Python](https://realpython.com/inheritance-composition-python/)
 - [Decorators in Python - GeeksforGeeks](https://www.geeksforgeeks.org/decorators-in-python/)
 - [Supercharge Your Classes With Python super() - Real Python](https://realpython.com/python-super/)
+=======
+# python-p3-inheritance-lab-pt-2
+>>>>>>> 78e720b9ff487df740f00e41136ac5229d734c3b
